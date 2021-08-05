@@ -1,0 +1,11 @@
+/* Ubuntu */
+@font-face {
+    font-family: Ubuntu;
+    src: url('../fonts/Ubuntu/Ubuntu-Regular.ttf');
+}
+
+/* Almarai */
+@font-face {
+    font-family: Almarai;
+    src: url('../fonts/Almarai/Almarai-Regular.ttf');
+}
